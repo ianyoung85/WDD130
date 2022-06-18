@@ -126,19 +126,22 @@ footer {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 2/4;
-    grid-row: 2/3;  
+    grid-row: 2/3; 
+    font-size: .8em; 
 }
 .az-card {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 5/7;
-    grid-row: 2/3; 
+    grid-row: 2/3;
+    font-size: .8em; 
 }
 .nm-card {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 8/10;
     grid-row: 2/3;
+    font-size: .8em;
 }
 .card-img {
     border: 10px solid black;

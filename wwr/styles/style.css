@@ -143,6 +143,7 @@ footer {
     grid-row: 2/3;
     font-size: .8em;
 }
+
 .card-img {
     border: 10px solid black;
      /* width: 100%;  */

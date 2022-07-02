@@ -93,14 +93,14 @@ footer {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 2/4;
-    grid-row: 2/3; 
+    grid-row: 4/5; 
     font-size: .8em; 
 }
 .liberty-card {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 5/7;
-    grid-row: 2/3;
+    grid-row: 4/5;
     font-size: .8em;
 }
 .face-card {
@@ -108,7 +108,7 @@ footer {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 8/10;
-    grid-row: 2/3;
+    grid-row: 4/5;
     font-size: .8em;
 }
 .station-card {
@@ -116,7 +116,7 @@ footer {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 11/13;
-    grid-row: 2/3;
+    grid-row: 4/5;
     font-size: .8em;
 }
 .flag-card {
@@ -124,7 +124,7 @@ footer {
     padding: 15px 30px;
     margin:200px 0;
     grid-column: 5/10;
-    grid-row: 3/5;
+    grid-row: 5/6;
     font-size: .8em;
 }
 .card-img {

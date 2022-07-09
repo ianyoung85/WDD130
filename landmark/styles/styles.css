@@ -162,6 +162,10 @@ border: 10px solid black;
     grid-column:3/8;
     grid-row: 8/9;
 }
+.intro-box{
+    grid-column:2/3;
+    grid-row:2/3;
+}
 .overlay {
     position: absolute;
     grid-column: 2/4;

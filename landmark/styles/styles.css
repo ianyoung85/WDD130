@@ -32,8 +32,7 @@ nav a {
     grid-column: 2/3;
     grid-row:1/2;
     margin-top: 100px;
-    text-align: center;
-    
+    text-align: center;   
 }
 #welcome-msg h1, #welcome-msg h4 {
     text-align: center; 
